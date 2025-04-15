@@ -60,5 +60,5 @@ with st.sidebar:
         st.session_state.messages = []
         st.rerun()
     
-     st.divider()
+    st.divider()
     st.write("Model: gpt-4.1-nano-2025-04-14")
